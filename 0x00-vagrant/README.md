@@ -1,0 +1,1 @@
+"readme from vagrant dir"  
